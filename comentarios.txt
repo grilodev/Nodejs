@@ -1,0 +1,9 @@
+//npm init -y  (criar arquivo json de pacote)
+//node .\server.js (para rodar a aplicação)
+//npm install http express debug --save (baixar módulos)
+//excluir módulos
+//npm install novamente
+//npm install nodemon --save-dev
+//nodemon .\bin\server.js para deixar rodando
+//npm install body-parser --save
+//instalar módulos do node no projeto
